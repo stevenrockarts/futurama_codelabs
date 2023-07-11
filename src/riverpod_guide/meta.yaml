@@ -4,6 +4,3 @@ steps:
   - name: Introduction
     directory: 01_intro
     has_solution: true
-  - name: Introduction - Step 1
-    directory: 01_intro
-    has_solution: true
