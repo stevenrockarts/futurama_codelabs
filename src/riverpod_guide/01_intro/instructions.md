@@ -46,5 +46,3 @@ void main() {
 ```
 
 ProviderScope is a widget that stores the state of all the providers we create.
-
-3. 
