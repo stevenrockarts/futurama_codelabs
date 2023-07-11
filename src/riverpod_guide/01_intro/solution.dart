@@ -12,7 +12,7 @@ void main() {
 class HelloWorldWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return Text(
+    return const Text(
       /* how to read the provider value here? */
       "Hello world",
     );
