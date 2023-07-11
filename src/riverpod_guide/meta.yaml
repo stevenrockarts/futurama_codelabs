@@ -1,0 +1,9 @@
+name: Flutter Riverpod 2.0 The Ultimate Guide
+type: flutter # Optional
+steps:
+  - name: Introduction
+    directory: 01_intro
+    has_solution: true
+  - name: Introduction - Step 1
+    directory: 01_intro
+    has_solution: true
