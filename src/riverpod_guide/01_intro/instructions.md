@@ -32,7 +32,7 @@ Riverpod is very versatile, and you can use it to:
 1. Import the Flutter Riverpod Package import 
 ```dart
 'package:flutter_riverpod/flutter_riverpod.dart';
-```dart
+```
 
 2. Wrap the root widget with a provider scope
 ```dart
